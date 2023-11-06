@@ -1,5 +1,5 @@
 <?php
-$umur = 13;
+$umur = 20;
 if ($umur < 18 ){
 echo "Kamu tidak boleh membuka situs ini!";
 } else {

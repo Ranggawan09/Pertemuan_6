@@ -1,5 +1,5 @@
 <?php
-$nilai = 88;
+$nilai = 89;
 if ($nilai > 90) {
     $grade = "A";
 } elseif($nilai > 80) { 
